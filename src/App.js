@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-
+import {persons} from "./assets/persons"
+  
+  
 function App() {
   return (
     <div className="App">
@@ -21,5 +23,7 @@ function App() {
     </div>
   );
 }
+
+
 
 export default App;
